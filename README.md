@@ -1,1 +1,1 @@
-# Lear-python
+# Learning-python
